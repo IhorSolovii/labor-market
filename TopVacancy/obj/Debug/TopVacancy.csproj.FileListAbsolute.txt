@@ -1,0 +1,13 @@
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\bin\Debug\TopVacancy.exe.config
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\bin\Debug\TopVacancy.exe
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\bin\Debug\TopVacancy.pdb
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\bin\Debug\VacancyProvider.dll
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\bin\Debug\RestSharp.dll
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\bin\Debug\VacancyProvider.pdb
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.csprojResolveAssemblyReference.cache
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.Properties.Resources.resources
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.csproj.GenerateResource.Cache
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.exe
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.pdb
+C:\Users\Ihor\source\repos\TopVacancy\TopVacancy\obj\Debug\TopVacancy.TopVacancy.resources

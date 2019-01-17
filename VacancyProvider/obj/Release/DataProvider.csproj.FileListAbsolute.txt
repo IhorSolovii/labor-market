@@ -1,0 +1,6 @@
+C:\Users\Ihor\source\repos\TopVacancy\VacancyProvider\bin\Release\VacancyProvider.dll
+C:\Users\Ihor\source\repos\TopVacancy\VacancyProvider\bin\Release\VacancyProvider.pdb
+C:\Users\Ihor\source\repos\TopVacancy\VacancyProvider\bin\Release\RestSharp.dll
+C:\Users\Ihor\source\repos\TopVacancy\VacancyProvider\obj\Release\DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\source\repos\TopVacancy\VacancyProvider\obj\Release\VacancyProvider.dll
+C:\Users\Ihor\source\repos\TopVacancy\VacancyProvider\obj\Release\VacancyProvider.pdb
